@@ -1,8 +1,8 @@
 ## Olá! Me chamo Luan Henrique (DevJr) !!
 
 - 💻 Desenvolvedor BackEnd
-- 👨🏽‍💻 PHP (Laravel) | JAVASCRIPT | HTML | CSS | SQL (MySQL e PostgreSQL)
-- 🎯 Me aperfeiçoando cada vez mais em PHP e estudando o framework Laravel
+- 👨🏽‍💻 PHP (Laravel) | VueJs | SQL (MySQL e PostgreSQL)
+- 🎯 Me aperfeiçoando cada vez mais em PHP no framework Laravel
 
 <div align="center">
   <a href="https://github.com/LuanMobile">
