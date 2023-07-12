@@ -10,12 +10,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanMobile&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  <div style="display: inline_block"><br>
-  <img align="center" alt="Luan-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Luan-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-  <img align="center" alt="Luan-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+  <img align="center" alt="Luan-PHP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png">
+  <img align="center" alt="Luan-Laravel" height="30" width="40" src="https://logospng.org/download/laravel/logo-laravel-1024.png">
+  <img align="center" alt="Luan-VueJs" height="30" widht="40" scr="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png">
+   <img align="center" alt="Luan-Mysql" height="30" widht="20" src="https://e7.pngegg.com/pngimages/1018/16/png-clipart-mysql-workbench-database-mysql-cluster-others-text-logo.png">
+   <img align="center" alt="Luan-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   
   ##
   
