@@ -13,6 +13,7 @@ Sou um desenvolvedor web apaixonado por transformar ideias em soluções funcion
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanMobile&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+![GitHub Stats](./profile/stats.svg)
 
 ## 💻 Tecnologias e Ferramentas
 
